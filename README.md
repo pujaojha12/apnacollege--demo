@@ -1,3 +1,3 @@
 # apnacollege--demo
-this is my new repository
-author puja ojha  
+this is my new repository.Author-puja ojha
+
